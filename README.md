@@ -1,0 +1,1 @@
+# FAT32-Image-file-Interpretation
